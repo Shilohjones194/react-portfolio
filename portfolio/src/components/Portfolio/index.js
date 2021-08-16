@@ -11,44 +11,45 @@ function Portfolio() {
         // list all your best work on the top 5.
         {
             id: 1,
-            title: "Trivia With A T",
-            image: ``,
-            githubLink: "",
-            description: "",
-            deployed: ""
+            title: "Trivia With A Twist",
+            image: `${process.env.PUBLIC_URL}/images/TWAT.PNG`,
+            githubLink: "https://github.com/Shilohjones194/TriviaWithATwist",
+            description: "A little something to do during a Pandemic",
+            deployed: "https://shilohjones194.github.io/TriviaWithATwist/"
         },
         {
             id: 2,
-            title: "",
-            image: ``,
-            githubLink: "",
-            description: "",
-            deployed: ""
+            title: "Weather-Dashboard.ServerSideAPI",
+            image: `${process.env.PUBLIC_URL}/images/WeatherDashB.PNG`,
+            githubLink: "https://github.com/Shilohjones194/Weather-Dashboard.ServerSideAPI",
+            description: "Using multiple APIs and Moment, you can search each cities weather.",
+            deployed: "https://shilohjones194.github.io/Weather-Dashboard.ServerSideAPI/"
         },
         {
             id: 3,
-            title: "",
-            image: ``,
-            githubLink: "",
-            description: "",
-            deployed: ""
+            title: "Note Taker",
+            image: `${process.env.PUBLIC_URL}/images/WeatherDashB.PNG`,
+            githubLink: "https://github.com/Shilohjones194/Note-Taker",
+            description: "Simple note taking app using Express, Node & Heroku.",
+            deployed: "https://radiant-harbor-07671.herokuapp.com/"
         },
-        {
-            id: 4,
-            title: "",
-            image: ``,
-            githubLink: "",
-            description: "",
-            deployed: ""
-        },
-        {
-            id: 5,
-            title: "",
-            image: ``,
-            githubLink: "",
-            description: "",
-            deployed: ""
-        }
+        // other projects coming
+        // {
+        //     id: 4,
+        //     title: "",
+        //     image: ``,
+        //     githubLink: "",
+        //     description: "",
+        //     deployed: ""
+        // },
+        // {
+        //     id: 5,
+        //     title: "",
+        //     image: ``,
+        //     githubLink: "",
+        //     description: "",
+        //     deployed: ""
+        // }
     ]);
 
     return (

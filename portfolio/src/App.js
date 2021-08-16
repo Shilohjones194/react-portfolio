@@ -13,7 +13,5 @@ function App() {
         {name: "Portfolio"},
         {name: "Resume"}
     ]
-    const [currentPage, setCurrentPage] = useState(pages[0]);
-    
-    const Switch = (page) => {}
+
 }

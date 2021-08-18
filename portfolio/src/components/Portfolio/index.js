@@ -33,23 +33,23 @@ function Portfolio() {
             description: "Simple note taking app using Express, Node & Heroku.",
             deployed: "https://radiant-harbor-07671.herokuapp.com/"
         },
-        // other projects coming
-        // {
-        //     id: 4,
-        //     title: "",
-        //     image: ``,
-        //     githubLink: "",
-        //     description: "",
-        //     deployed: ""
-        // },
-        // {
-        //     id: 5,
-        //     title: "",
-        //     image: ``,
-        //     githubLink: "",
-        //     description: "",
-        //     deployed: ""
-        // }
+ 
+        {
+            id: 4,
+            title: "Whats Up Dog",
+            image: `${process.env.PUBLIC_URL}/assets/images/WhatsupDog.PNG`,
+            githubLink: "https://github.com/Shilohjones194/dam-stud",
+            description: "A new option to find dog breeders in your area.",
+            deployed: "https://serene-ocean-75643.herokuapp.com/"
+        },
+        {
+            id: 5,
+            title: "",
+            image: ``,
+            githubLink: "",
+            description: "",
+            deployed: ""
+        }
     ]);
 
     return (

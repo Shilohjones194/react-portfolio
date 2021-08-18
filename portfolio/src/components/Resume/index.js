@@ -1,11 +1,11 @@
-import React from 'react';
+// import React from 'react';
 
-function Resume() {
+// function Resume() {
     
 
-    return (
+//     return (
 
-    )
-}
+//     )
+// }
 
-export default Resume;
+// export default Resume;

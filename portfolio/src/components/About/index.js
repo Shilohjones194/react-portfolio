@@ -4,10 +4,10 @@ function About() {
 
 
     return (
-        <section className=''>
-            <div className=''>
-                <h1></h1>
-                <img src="">image</img>
+        <section className='AboutMe'>
+            <div className='AboutMe'>
+                <h1>Luke</h1>
+                {/* <img src="sf">image</img> */}
             </div>
             <br />
             <div className="aboutLJ">

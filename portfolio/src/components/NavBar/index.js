@@ -3,7 +3,7 @@ import React from 'react';
 function NavBar(props) {
     // needs hook
     const {
-        pages = [],
+        pages,
         setCurrentPage,
         currentPage
     } = props
@@ -27,6 +27,7 @@ function NavBar(props) {
                                 setCurrentPage(page);
                             }}
                             >
+                                {page.name}
                         </span>
                         </li>
                     ))}

@@ -44,11 +44,11 @@ function Portfolio() {
         },
         {
             id: 5,
-            title: "",
+            title: "surviving-cbc",
             image: ``,
-            githubLink: "",
-            description: "",
-            deployed: ""
+            githubLink: "https://github.com/lilyhi/surviving-cbc",
+            description: "CodyBootCamp survival app that will help you connect with other students and previous graduates",
+            deployed: "https://surviving-cbc.herokuapp.com/"
         }
     ]);
 

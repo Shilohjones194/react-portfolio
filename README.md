@@ -1,5 +1,37 @@
 # react-portfolio
 
+# E-CommerceBackEnd-ORM
+
+## Description
+
+Here is my first time using React as a portfolio, it is currently under maintence but should be up and running by 9/01/21
+
+
+## Developers-Profile:
+
+* GitHub: [Shilohjones194](https://github.com/Shilohjones194)
+
+
+
+## License
+
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+
+## Questions
+
+* Please contact the following if you have any questions or concerns:
+
+* Luke Jones :[Shilohjonezz@gmail.com](mailto:Shilohjonezz@gmail.com).
+
+
+## Future-Developments
+
+This is going to have all pictures displaying, mobile friendly, and resume ready to download by the end of the month!
+
+
+
+
 
 ## AcceptanceCriteria
 

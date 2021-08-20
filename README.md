@@ -10,7 +10,9 @@ Here is my first time using React as a portfolio, it is currently under maintenc
 
 * GitHub: [Shilohjones194](https://github.com/Shilohjones194)
 
+## Portfolio:
 
+* Link to Portfolio: https://shilohjones194.github.io/react-portfolio/
 
 ## License
 
